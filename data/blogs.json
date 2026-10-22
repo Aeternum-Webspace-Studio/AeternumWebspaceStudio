@@ -1,23 +1,5 @@
 [
   {
-    "id": "test-slug-1781802708037",
-    "slug": "test-slug",
-    "title": "test judul",
-    "category": "test kategori",
-    "date": "18 Juni 2026",
-    "readTime": "4 menit baca",
-    "excerpt": "test ringkasan",
-    "content": "test isi",
-    "image": "/assets/blog/1781802708038-favicon.jpg",
-    "published": true,
-    "highlights": [
-      "test",
-      "highligh"
-    ],
-    "createdAt": "2026-06-18T17:11:48.036Z",
-    "updatedAt": "2026-06-18T17:11:48.036Z"
-  },
-  {
     "id": "checklist-website-bisnis-pertama",
     "slug": "checklist-website-bisnis-pertama",
     "title": "Checklist sebelum membuat website bisnis pertama",
